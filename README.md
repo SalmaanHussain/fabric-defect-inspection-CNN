@@ -1,9 +1,6 @@
 # Fabric/Textile Defect Inspection System (CNN)
 
-ENEL4AI H2 — Artificial Intelligence — 2026
-Project 3: Fabric/Textile Defect Inspection System
-
-Group members: Hussain S., Fataki I., Hlangu L., Dube N.K.
+Fabric/Textile Defect Inspection System
 
 ## Overview
 

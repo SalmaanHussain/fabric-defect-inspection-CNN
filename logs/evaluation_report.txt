@@ -1,0 +1,25 @@
+Test set size: 3845 images
+Classes: ['good', 'hole', 'objects', 'oil spot', 'thread error']
+
+Overall accuracy: 0.8148
+
+Per-class precision / recall / F1-score:
+              precision    recall  f1-score   support
+
+        good      0.972     0.846     0.905      3477
+        hole      0.324     0.692     0.442        52
+     objects      0.311     0.441     0.365       127
+    oil spot      0.158     0.677     0.256        96
+thread error      0.302     0.376     0.335        93
+
+    accuracy                          0.815      3845
+   macro avg      0.413     0.607     0.460      3845
+weighted avg      0.905     0.815     0.850      3845
+
+Confusion matrix (rows = true class, columns = predicted class):
+                      good        hole     objects    oil spot  thread err
+good                  2941          42         111         318          65
+hole                     4          36           2           3           7
+objects                 38           9          56          17           7
+oil spot                20           4           5          65           2
+thread error            23          20           6           9          35

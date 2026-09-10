@@ -1,0 +1,6 @@
+class,raw_total,test_count,available_for_train,train_count
+good,23170,3477,19693,3000
+hole,337,52,285,285
+objects,837,127,710,710
+oil spot,636,96,540,540
+thread error,620,93,527,527

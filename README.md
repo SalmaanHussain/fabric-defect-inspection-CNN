@@ -11,12 +11,6 @@ A prototype neural-network-based system for detecting weaving flaws, holes,
 oil spots, and thread defects in fabric images, built with a CNN using
 transfer learning (ResNet18).
 
-The project originally planned to use the AITEX fabric defect dataset, but
-switched to the TILDA fabric defect dataset (5-class, 64x64 patch version)
-after determining a team member's laptop could not handle AITEX's larger
-strip images. This is documented in `Task2_Report.docx`, along with the
-class-imbalance handling this required.
-
 ## Repository structure
 
 ```

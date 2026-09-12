@@ -55,4 +55,4 @@ All scripts use a fixed random seed (42) for reproducibility.
 - [x] Dataset acquisition, cleaning, and class-imbalance handling
 - [x] Baseline model trained and evaluated
 - [x] Improved model trained and evaluated
-- [ ] Working prototype (simulated fabric feed + dashboard + defect log) — in progress
+- [ ] Working prototype (simulated fabric feed + dashboard + defect log) - In Progress

@@ -16,7 +16,6 @@ Models/            trained model weights
   resnet18_v2.pth         v2: layer4 fine-tuned + more augmentation, 15 epochs
 logs/               training logs, evaluation results, confusion matrices
 scripts/            all code used to produce the above, in run order
-Task2_Report.docx   full write-up: dataset, methodology, results, discussion
 split_summary.csv   final train/test class counts
 ```
 
